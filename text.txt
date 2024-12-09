@@ -1,0 +1,7 @@
+starting in 16.11.2024
+day 1 => Boiler Plate
+day 2 => Tailwind add and deplyment 
+day 3 => Digital Clock (Project UI Design)
+day 4 => Form Handling
+day 6 => Hook Form (Install & two way Bindind)
+day 7 => Property Add karna
